@@ -1,0 +1,5 @@
+com\vs\REST\Employees.class
+com\vs\REST\SalaryServiceConfigurationController.class
+com\vs\REST\EmployeeController.class
+com\vs\REST\SalaryServiceConfiguration.class
+com\vs\REST\RestApplication.class
